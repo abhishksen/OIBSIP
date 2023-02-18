@@ -1,5 +1,5 @@
 # OIBSIP
-This the repo for my oasis infobyte internship tasks
+This is the repo for my oasis infobyte internship tasks
 
 task details 
 
